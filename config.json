@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpalidate",
+        "uuid": 9288600,
+        "checksum": "knhiexe"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
